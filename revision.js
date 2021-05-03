@@ -21,7 +21,6 @@ function largestNumber(numbers){
     return larger;
 }
 var output = largestNumber(marks);
-
 var marks = [12, 34, 54,  94, 23, 25, 64, 76];
 for(var i = 0; i < marks.length; i++) {
     var element = marks[i];
